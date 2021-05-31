@@ -1,0 +1,2 @@
+rootProject.name = "RetrofitJson"
+include ':app'
