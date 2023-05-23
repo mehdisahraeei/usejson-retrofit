@@ -10,7 +10,7 @@ import retrofit2.http.GET;
 public interface Api {
 
 
-    @GET("mahdisahrai/RetrofitJson/master/file.json")
+    @GET("mahdisahrai/usejson-retrofit/master/file.json")
     Call<ArrayList<Model>> getModel();
 
 }
